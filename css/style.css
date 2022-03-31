@@ -1255,3 +1255,9 @@ body.offcanvas {
     height: inherit !important;
     float: left;
     padding-top: 30px; } }
+    #wrapper{
+      border:10px solid #f0ad4e;
+      min-height:250px;
+      height:100%;
+      width: 100%;
+    }
