@@ -424,7 +424,9 @@ body.offcanvas {
   @media screen and (max-width: 768px) {
     .colorlib-heading {
       margin-bottom: 3em; } }
-
+.no-heading {
+  margin-bottom: 30px !important; 
+}
 .heading-meta {
   margin-bottom: 15px;
   display: block;
